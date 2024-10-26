@@ -57,6 +57,10 @@ Then, run the game:
 
    Now you can play the game!
 
+## How to play
+
+Use A and D to move left and right, and space bar to jump.
+
 ## Licensing
 
 [GPL-3.0](LICENSE)
